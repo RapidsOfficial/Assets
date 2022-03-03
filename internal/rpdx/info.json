@@ -1,16 +1,16 @@
 {
-    "name": "Rapids Network",
-    "website": "https://rapidsnetwork.io",
-    "description": "Rapids Network is Blockchain At Your FingerTips. We serve blockchain with a hand reach!",
-    "explorer": "https://bscscan.com/",
-    "research": "https://research.binance.com/en/projects/bnb",
-    "symbol": "RPD",
-    "type": "coin",
-    "decimals": 8,
-    "status": "active",
-    "verified": true,
-    "badge": true,
-    "tags": [
+    name: "Rapids Network",
+    website: "https://rapidsnetwork.io",
+    description: "Rapids Network is Blockchain At Your FingerTips. We serve blockchain with a hand reach!",
+    explorer: "https://bscscan.com/",
+    esearch: "https://research.binance.com/en/projects/bnb",
+    symbol: "RPD",
+    type: "coin",
+    decimals: 8,
+    status: "active",
+    verified: true,
+    badge: true,
+    tags: [
         "staking",
         "masternode",
         "token layer",
@@ -18,7 +18,9 @@
         "utility token",
         "governant"
     ],
-    "links": [
+    badge: "",
+	
+    links: [
         {
             "name": "github",
             "url": "https://github.com/RapidsOfficial/"
@@ -38,6 +40,5 @@
         {
             "name": "whitepaper",
             "url": "https://rapidsnetwork.io/assets/Rapids-Whitepaper.pdf"
-        }
-    ]
+        }]
 }
