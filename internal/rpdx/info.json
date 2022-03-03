@@ -1,44 +1,42 @@
 {
-    name: "Rapids Network",
-    website: "https://rapidsnetwork.io",
-    description: "Rapids Network is Blockchain At Your FingerTips. We serve blockchain with a hand reach!",
-    explorer: "https://bscscan.com/",
-    esearch: "https://research.binance.com/en/projects/bnb",
-    symbol: "RPD",
-    type: "coin",
-    decimals: 8,
-    status: "active",
-    verified: true,
-    badge: true,
-    tags: [
-        "staking",
-        "masternode",
-        "token layer",
-        "nft layer",
-        "utility token",
-        "governant"
-    ],
-    badge: "",
-	
-    links: [
-        {
-            "name": "github",
-            "url": "https://github.com/RapidsOfficial/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/rapidsofficial"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/rapidsofficial"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/r/rapidsofficial"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://rapidsnetwork.io/assets/Rapids-Whitepaper.pdf"
-        }]
+	"name": "Rapids Network",
+	"website": "https://rapidsnetwork.io",
+	"description": "Rapids Network is Blockchain At Your FingerTips. We serve blockchain with a hand reach!",
+	"explorer": "https://bscscan.com/",
+	"esearch": "https://research.binance.com/en/projects/bnb",
+	"symbol": "RPD",
+	"type": "coin",
+	"decimals": 8,
+	"status": "active",
+	"verified": true,
+	"badge": true,
+	"tags": [
+		"staking",
+		"masternode",
+		"token layer",
+		"nft layer",
+		"utility token",
+		"governant"
+	],
+	"links": [{
+			"name": "github",
+			"url": "https://github.com/RapidsOfficial/"
+		},
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/rapidsofficial"
+		},
+		{
+			"name": "reddit",
+			"url": "https://reddit.com/r/rapidsofficial"
+		},
+		{
+			"name": "facebook",
+			"url": "https://facebook.com/r/rapidsofficial"
+		},
+		{
+			"name": "whitepaper",
+			"url": "https://rapidsnetwork.io/assets/Rapids-Whitepaper.pdf"
+		}
+	]
 }
