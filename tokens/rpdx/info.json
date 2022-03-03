@@ -10,11 +10,6 @@
 	"status": "active",
 	"verified": true,
 	"badge": true,
-	"tags": [
-		"staking",
-		"token layer",
-		"nft layer"
-	],
 	"links": [{
 			"github": "https://github.com/RapidsOfficial/"
 		},
